@@ -2,7 +2,6 @@ import React from "react";
 
 import Header from "../components/header";
 import Form from "../components/form";
-import Footer from "../components/footer";
 
 export default function Home() {
   return (
@@ -19,7 +18,6 @@ export default function Home() {
                 </div>
                 <div className="max-w-md mx-auto">
                   <Form />
-                  <Footer />
                 </div>
               </div>
             </div>

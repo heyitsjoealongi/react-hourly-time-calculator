@@ -129,4 +129,4 @@ Having an issue with the template? Report bugs & issues with React Hourly Time C
 
 ##### License
 
-© 2021 React Hourly Time Calculator released via [MIT](https://opensource.org/licenses/MIT) license. Information on this license can be viewed as it applies to this repository on GitHub at [React Hourly Time Calculator License](https://github.com/collectedview/react-hourly-time-calculator/blob/master/LICENSE).
+© 2022 React Hourly Time Calculator released via [MIT](https://opensource.org/licenses/MIT) license. Information on this license can be viewed as it applies to this repository on GitHub at [React Hourly Time Calculator License](https://github.com/collectedview/react-hourly-time-calculator/blob/master/LICENSE).
